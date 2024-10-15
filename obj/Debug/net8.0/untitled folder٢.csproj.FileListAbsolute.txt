@@ -1,0 +1,14 @@
+/Users/waad/Desktop/waad/untitled folder٢/bin/Debug/net8.0/untitled folder٢
+/Users/waad/Desktop/waad/untitled folder٢/bin/Debug/net8.0/untitled folder٢.deps.json
+/Users/waad/Desktop/waad/untitled folder٢/bin/Debug/net8.0/untitled folder٢.runtimeconfig.json
+/Users/waad/Desktop/waad/untitled folder٢/bin/Debug/net8.0/untitled folder٢.dll
+/Users/waad/Desktop/waad/untitled folder٢/bin/Debug/net8.0/untitled folder٢.pdb
+/Users/waad/Desktop/waad/untitled folder٢/obj/Debug/net8.0/untitled folder٢.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waad/Desktop/waad/untitled folder٢/obj/Debug/net8.0/untitled folder٢.AssemblyInfoInputs.cache
+/Users/waad/Desktop/waad/untitled folder٢/obj/Debug/net8.0/untitled folder٢.AssemblyInfo.cs
+/Users/waad/Desktop/waad/untitled folder٢/obj/Debug/net8.0/untitled folder٢.csproj.CoreCompileInputs.cache
+/Users/waad/Desktop/waad/untitled folder٢/obj/Debug/net8.0/untitled folder٢.dll
+/Users/waad/Desktop/waad/untitled folder٢/obj/Debug/net8.0/refint/untitled folder٢.dll
+/Users/waad/Desktop/waad/untitled folder٢/obj/Debug/net8.0/untitled folder٢.pdb
+/Users/waad/Desktop/waad/untitled folder٢/obj/Debug/net8.0/untitled folder٢.genruntimeconfig.cache
+/Users/waad/Desktop/waad/untitled folder٢/obj/Debug/net8.0/ref/untitled folder٢.dll
